@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="max_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Max Down Note0000" x="5" y="5" width="723" height="382" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Max Down Note0001" x="5" y="397" width="723" height="382" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Max Idle Dance0000" x="818" y="5" width="443" height="475" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Max NOTE LEFT0000" x="738" y="490" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="Max NOTE LEFT0001" x="5" y="962" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="Max Note Right0000" x="464" y="962" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Note Right0001" x="932" y="962" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Up note0000" x="1431" y="5" width="432" height="496" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="Max Up note0001" x="1400" y="510" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+</TextureAtlas>
