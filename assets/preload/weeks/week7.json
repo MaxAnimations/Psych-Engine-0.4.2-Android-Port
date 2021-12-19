@@ -1,0 +1,51 @@
+{
+  "songs": [
+    [
+      "Lost",
+      "max",
+      [
+        106,
+        113,
+        253
+      ],
+      "Bopeebo"
+    ],
+    [
+      "Outbreak",
+      "max",
+      [
+        46,
+        73,
+        255
+      ]
+    ],
+    [
+      "Fallen",
+      "max",
+      [
+        66,
+        13,
+        153
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "max",
+  "currentcutscene": "template",
+  "weekCharacters": [
+    "max",
+    "bf",
+    ""
+  ],
+  "storyName": "Maximum Showdown",
+  "weekName": "week7",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "showcutscene": false,
+  "hideStoryMode": false,
+  "weekBefore": "week6",
+  "startUnlocked": true
+}
